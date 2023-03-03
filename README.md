@@ -15,3 +15,8 @@ Additionally, certain factors were considered which according to the research ma
 The mortality rate of each continent was analysed. 
 The aim of the analysis was to graphically ascertain the life expentency of the people living in each continent.
 These were shown using heat maps.
+
+##  Author and email
+Elvis DARKO
+
+elvis_darko@outlook.com
